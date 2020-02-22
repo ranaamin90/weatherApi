@@ -4,7 +4,7 @@ Allows authenticated users to enter a city and get its weather conditions.
 
 This repository using Laravel 5.6
 
-#Installation
+# Installation
 
 Follow these steps:
 
